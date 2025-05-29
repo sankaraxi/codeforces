@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/800-level-problems/800-level-problems.iml" filepath="$PROJECT_DIR$/800-level-problems/800-level-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/800-level-problems/Watermelon/Watermelon.iml" filepath="$PROJECT_DIR$/800-level-problems/Watermelon/Watermelon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/competitive-programming.iml" filepath="$PROJECT_DIR$/.idea/competitive-programming.iml" />
+    </modules>
+  </component>
+</project>
