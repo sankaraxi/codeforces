@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/800-level-problems.iml" filepath="$PROJECT_DIR$/800-level-problems/800-level-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/Watermelon/Watermelon.iml" filepath="$PROJECT_DIR$/800-level-problems/Watermelon/Watermelon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/800-level-problems/WayTooLongWords/WayTooLongWords.iml" filepath="$PROJECT_DIR$/800-level-problems/WayTooLongWords/WayTooLongWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/competitive-programming.iml" filepath="$PROJECT_DIR$/.idea/competitive-programming.iml" />
     </modules>
   </component>
