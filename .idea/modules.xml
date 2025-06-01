@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/800-level-problems.iml" filepath="$PROJECT_DIR$/800-level-problems/800-level-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/800-level-problems/BitPlusPlus/BitPlusPlus.iml" filepath="$PROJECT_DIR$/800-level-problems/BitPlusPlus/BitPlusPlus.iml" />
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/DominoPiling/DominoPiling.iml" filepath="$PROJECT_DIR$/800-level-problems/DominoPiling/DominoPiling.iml" />
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/NextRound/NextRound.iml" filepath="$PROJECT_DIR$/800-level-problems/NextRound/NextRound.iml" />
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/Team/Team.iml" filepath="$PROJECT_DIR$/800-level-problems/Team/Team.iml" />
