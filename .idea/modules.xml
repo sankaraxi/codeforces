@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/Team/Team.iml" filepath="$PROJECT_DIR$/800-level-problems/Team/Team.iml" />
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/Watermelon/Watermelon.iml" filepath="$PROJECT_DIR$/800-level-problems/Watermelon/Watermelon.iml" />
       <module fileurl="file://$PROJECT_DIR$/800-level-problems/WayTooLongWords/WayTooLongWords.iml" filepath="$PROJECT_DIR$/800-level-problems/WayTooLongWords/WayTooLongWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/800-level-problems/WordCapitailization/WordCapitailization.iml" filepath="$PROJECT_DIR$/800-level-problems/WordCapitailization/WordCapitailization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/competitive-programming.iml" filepath="$PROJECT_DIR$/.idea/competitive-programming.iml" />
     </modules>
   </component>
